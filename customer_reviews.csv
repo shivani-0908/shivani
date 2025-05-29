@@ -1,0 +1,101 @@
+ReviewID,CustomerName,Rating,ReviewText,Date
+1,Fiona,5,I'm extremely happy with this purchase.,2024-03-18
+2,Hannah,5,It did not meet my expectations.,2024-12-07
+3,George,4,The product stopped working after a week.,2024-01-09
+4,Diana,5,Not worth the price.,2024-07-08
+5,Alice,4,"Great product, highly recommend!",2025-01-14
+6,Alice,2,Amazing value for money.,2025-03-25
+7,Ethan,1,Would definitely buy again.,2024-12-13
+8,Bob,5,The product stopped working after a week.,2024-01-28
+9,Diana,2,Excellent customer service.,2024-05-19
+10,Hannah,3,Excellent customer service.,2025-05-03
+11,Ethan,1,Not worth the price.,2024-03-05
+12,Charlie,3,It did not meet my expectations.,2025-01-20
+13,George,3,I'm extremely happy with this purchase.,2024-02-21
+14,Charlie,4,It did not meet my expectations.,2025-02-22
+15,Diana,4,Fast delivery and good packaging.,2024-12-02
+16,Hannah,5,The product stopped working after a week.,2024-07-15
+17,Ethan,3,Excellent customer service.,2024-11-11
+18,Hannah,1,Very satisfied with the quality.,2024-01-12
+19,Hannah,3,The product stopped working after a week.,2024-08-17
+20,Fiona,3,The product stopped working after a week.,2024-10-24
+21,Bob,2,Amazing value for money.,2024-04-12
+22,Alice,4,I'm extremely happy with this purchase.,2024-09-21
+23,Diana,4,Amazing value for money.,2024-02-19
+24,Diana,4,Fast delivery and good packaging.,2024-11-20
+25,Diana,1,Very satisfied with the quality.,2024-02-12
+26,Julia,5,It did not meet my expectations.,2024-07-20
+27,Charlie,3,"Great product, highly recommend!",2025-05-04
+28,Fiona,3,Amazing value for money.,2025-04-03
+29,George,5,Fast delivery and good packaging.,2024-07-08
+30,Ian,1,Fast delivery and good packaging.,2024-08-17
+31,Fiona,4,Would definitely buy again.,2024-03-20
+32,Hannah,2,Amazing value for money.,2024-04-23
+33,Ian,1,Not worth the price.,2024-05-03
+34,George,5,It did not meet my expectations.,2025-04-30
+35,Charlie,3,Would definitely buy again.,2025-01-31
+36,Julia,4,"Great product, highly recommend!",2025-01-08
+37,Ethan,4,Very satisfied with the quality.,2025-03-18
+38,Julia,3,The product stopped working after a week.,2024-05-29
+39,George,1,"Great product, highly recommend!",2024-12-06
+40,Julia,2,I'm extremely happy with this purchase.,2024-10-26
+41,Hannah,2,I'm extremely happy with this purchase.,2025-02-14
+42,Diana,2,Excellent customer service.,2025-01-12
+43,Julia,1,"Great product, highly recommend!",2024-01-28
+44,Alice,4,Amazing value for money.,2024-11-08
+45,Julia,3,Would definitely buy again.,2024-03-05
+46,Julia,2,It did not meet my expectations.,2024-12-28
+47,Julia,3,Would definitely buy again.,2025-03-21
+48,Ethan,5,Would definitely buy again.,2024-06-02
+49,Ethan,2,Not worth the price.,2025-01-14
+50,Charlie,4,Not worth the price.,2024-09-21
+51,Fiona,5,Not worth the price.,2025-02-28
+52,Alice,4,Amazing value for money.,2024-02-08
+53,Diana,5,Fast delivery and good packaging.,2024-11-16
+54,Hannah,5,Not worth the price.,2025-05-14
+55,Hannah,3,Amazing value for money.,2024-03-21
+56,Bob,2,Very satisfied with the quality.,2024-08-30
+57,Diana,2,I'm extremely happy with this purchase.,2025-02-13
+58,Fiona,1,Amazing value for money.,2024-09-17
+59,Alice,2,Fast delivery and good packaging.,2025-04-19
+60,Bob,2,"Great product, highly recommend!",2024-04-09
+61,Hannah,2,I'm extremely happy with this purchase.,2025-04-30
+62,Diana,3,I'm extremely happy with this purchase.,2024-11-27
+63,Ethan,5,Would definitely buy again.,2024-04-30
+64,Alice,2,Excellent customer service.,2024-11-01
+65,Charlie,3,"Great product, highly recommend!",2025-04-17
+66,Ethan,3,The product stopped working after a week.,2025-01-16
+67,Diana,3,I'm extremely happy with this purchase.,2024-09-17
+68,Charlie,4,I'm extremely happy with this purchase.,2024-12-21
+69,George,1,It did not meet my expectations.,2024-02-06
+70,Julia,5,Would definitely buy again.,2024-12-25
+71,Hannah,3,Amazing value for money.,2025-03-26
+72,Diana,3,Fast delivery and good packaging.,2024-01-03
+73,George,2,Very satisfied with the quality.,2024-12-23
+74,Alice,5,Amazing value for money.,2024-03-27
+75,Julia,3,Fast delivery and good packaging.,2024-05-27
+76,Alice,5,Very satisfied with the quality.,2024-02-10
+77,George,1,Excellent customer service.,2025-03-26
+78,Ethan,2,Excellent customer service.,2024-02-18
+79,Ian,3,Amazing value for money.,2024-09-11
+80,Hannah,2,I'm extremely happy with this purchase.,2024-07-05
+81,Bob,1,"Great product, highly recommend!",2025-02-10
+82,Diana,4,Excellent customer service.,2024-03-08
+83,Diana,4,"Great product, highly recommend!",2024-01-02
+84,Diana,2,Would definitely buy again.,2024-03-19
+85,George,4,Not worth the price.,2024-11-14
+86,Ian,2,Excellent customer service.,2024-05-17
+87,Ian,2,I'm extremely happy with this purchase.,2025-01-02
+88,George,4,I'm extremely happy with this purchase.,2024-11-27
+89,Hannah,4,Very satisfied with the quality.,2024-12-13
+90,Ian,2,Not worth the price.,2024-05-27
+91,Bob,5,Would definitely buy again.,2024-10-31
+92,Fiona,5,Very satisfied with the quality.,2024-01-02
+93,George,5,Excellent customer service.,2024-10-14
+94,Ian,1,The product stopped working after a week.,2024-11-25
+95,Fiona,4,Excellent customer service.,2024-08-25
+96,Fiona,1,Amazing value for money.,2025-01-05
+97,Ian,3,The product stopped working after a week.,2024-07-15
+98,Charlie,3,Fast delivery and good packaging.,2024-07-02
+99,Ian,4,Not worth the price.,2024-12-02
+100,Fiona,2,Would definitely buy again.,2024-01-05
